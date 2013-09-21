@@ -11,6 +11,8 @@ Informatikbuch zum Mitmachen
   1. Anker und Hyperlinks
   1. Bilder einfügen
   1. Tabellen
+     2. Spalten
+     2. Zeilen
   1. Farben in HTML
   1. Formate erzwingen mit "style" und "class" (für Fortgeschrittene)
   1. Validierung
