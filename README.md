@@ -14,3 +14,5 @@ Informatikbuch zum Mitmachen
   1. Farben in HTML
   1. Formate erzwingen mit "style" und "class" (für Fortgeschrittene)
   1. Validierung
+	1. HTML-Validator
+	1. CSS-Validator
